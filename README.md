@@ -29,4 +29,4 @@
 
 ---
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/devdaviii/devdaviii/blob/output/github-contribution-grid-snake.svg)
