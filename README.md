@@ -2,4 +2,4 @@
 
 - 💼 Hoje trabalho com Front-End (futuramente Full-Stack)
 - 📫 Contate-me no email: **swordartonline0077@gmail.com**
-- 😃 Pronouns: Ele/Dele
+- 😃 Pronouns: ele/dele
