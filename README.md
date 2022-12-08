@@ -1,16 +1,14 @@
-
 ## *Olá! Eu sou o Davi Alves* <img width="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>
-
-- 💼 Hoje trabalho com Front-End (futuramente Full-Stack)
+- 💼 Front-End
 - 📫 Atualmente estudando HTML5, CSS3 & Javascript
 - 😃 Pronouns: ele/dele
-
+</br>
 
 <div align="center">
   <a href="https://github.com/devdaviii">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devdaviii&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdaviii&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div></br>
 
 ---
 
